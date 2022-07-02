@@ -1,4 +1,4 @@
-### Hi there! 👋 I am Eazyisreal 
+### Hi there! 👋 I'm Eazyisreal 
 Fullstack Website Developer,Blockchain Enthusiast. <br>
 <!--
 **Eazyisreal/Eazyisreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
