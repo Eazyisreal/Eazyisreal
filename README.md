@@ -30,7 +30,7 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eazyisreal" alt="eazyisreal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eazysneh" target="blank"><img src="https://img.shields.io/twitter/follow/eazysneh?logo=twitter&style=for-the-badge" alt="eazysneh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eazyisreal_dev" target="blank"><img src="https://img.shields.io/twitter/follow/eazysneh?logo=twitter&style=for-the-badge" alt="eazysneh" /></a> </p>
 
 
 
