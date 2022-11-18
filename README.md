@@ -45,3 +45,4 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eazyisreal&" alt="eazyisreal" /></p>
 
+[![@eazyisreal's Holopin board](https://holopin.me/eazyisreal)](https://holopin.io/@eazyisreal)
